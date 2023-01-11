@@ -13,7 +13,6 @@ Below are current working versions of Project Cryo:
 
 
 
-| Color List Info  |
 | ✅ = Working    |
 | 🟡 = Testing    |
 | 🔴 = Broken     |
