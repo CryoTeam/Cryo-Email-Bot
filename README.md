@@ -9,4 +9,4 @@
 #
 # Project Cryo is developed as a educational tool or for business use. You can send multiple emails to multiple people at a time. 
 #
-#
+                       https://github.com/CryoTeam/Cryo-Email-Bot/tree/main
