@@ -99,3 +99,5 @@ for i in range(count): #Amount of messages to be sent.
 
 input(f"{Fore.RED}\nProject Cryo v.3 was successful...{Fore.LIGHTWHITE_EX}\nPress enter to exit...") #Email-bomber finished.
 server.close() #Closes server.
+
+#Give ProjectCryoTeam credit when using our open-source projects please otherwise we have to shut down our developments!
