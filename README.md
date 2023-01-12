@@ -8,8 +8,8 @@
 #
 #
 #
-# Newest email bomber 2023 working!
-| Name | Description | Developed By | Status |
+# Newest email bomber // 2023 edition // 📧
+| Sr.No. | Name | Description | Developed By | Status |
 |--------|------|--------------|-------------|--------|
 |1. |<a href="https://github.com/CryoTeam/Cryo-Email-Bot">Cryo-Bomber</a>|Email bomber and operating system information|<a href="https://github.com/CryoTeam">CryoTeam</a> |![Working](https://i.ibb.co/3FntR1c/1.png) |
 #
