@@ -12,7 +12,7 @@ update v.3 has been detected by google as "malware" upopn testing. Your account 
 #
 #
 # UPDATES:
-~ V.3 detected by google</a>
+~ V.3 detected by google<a>
 ~ Added Subject section [For users to figure out the rest!]
 ~ Added color coded text [Colorama]
 ~ Added operating system information
