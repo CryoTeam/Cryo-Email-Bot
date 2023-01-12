@@ -16,6 +16,12 @@
 #
 #
 #
+# READ ME
+I am not responsible for any use other than for education purposes and learning. This tool is NOT intended for unlawful, harmful or damaging results! This is only for EDUCATIONAL PURPOSES ONLY! This is for those of you who are new to python, programming, and or new to SMTPLIB and want to learn about the hows and whats. In this code i've included MANY notes on what it does and how its used!
+#
+#
+#
+#
 # WARNING:
 update v.3 has been detected by google as "malware" upopn testing. Your account MAY or MAY NOT have a account deletion, account reset, password reset, account locked, and more. This is just a security warning as Cryo has been going around its starting to be detected. Updates to secure the file are on the way but PLEASE READ EVERYTHING IN THESE FILES BEFORE USING MY CODE!
 # THE CODE WAS RAN ON VIRUSTOTAL.COM AND WAS CLEARED OF ALL VIRUSES/MALWARE BUT USE AT YOUR OWN RISK
