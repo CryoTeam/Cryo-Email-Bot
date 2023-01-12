@@ -8,6 +8,14 @@
 #
 #
 #
+# CRYO EMAIL BOMBER V.3 ✅
+| Sr.No. | Name | Description | Developed By | Status |
+|--------|------|--------------|-------------|--------|
+|1.| <a href="https://github.com/CryoTeam/Cryo-Email-Bot">Cryo-Bomber</a>|Email bomber and operating system information|<a href="https://github.com/CryoTeam">CryoTeam</a> |![Working](https://i.ibb.co/3FntR1c/1.png) |
+#
+#
+#
+#
 # WARNING:
 update v.3 has been detected by google as "malware" upopn testing. Your account MAY or MAY NOT have a account deletion, account reset, password reset, account locked, and more. This is just a security warning as Cryo has been going around its starting to be detected. Updates to secure the file are on the way but PLEASE READ EVERYTHING IN THESE FILES BEFORE USING MY CODE!
 # THE CODE WAS RAN ON VIRUSTOTAL.COM AND WAS CLEARED OF ALL VIRUSES/MALWARE BUT USE AT YOUR OWN RISK
