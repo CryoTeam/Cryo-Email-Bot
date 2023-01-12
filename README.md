@@ -9,8 +9,8 @@
 #
 #
 # CRYO EMAIL BOMBER ✅
-| Sr.No. | Name | Description | Developed By | Status |
-|--------|------|--------------|-------------|--------|
+| Name | Description | Developed By | Status |
+|--------|------|--------------|-------------|
 |1.| <a href="https://github.com/CryoTeam/Cryo-Email-Bot">Cryo-Bomber</a>|Email bomber and operating system information|<a href="https://github.com/CryoTeam">CryoTeam</a> |![Working](https://i.ibb.co/3FntR1c/1.png) |
 #
 #
