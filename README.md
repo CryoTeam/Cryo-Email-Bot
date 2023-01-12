@@ -16,7 +16,7 @@
 #
 #
 #
-# READ ME
+# READ ME:
 I am not responsible for any use other than for education purposes and learning. This tool is NOT intended for unlawful, harmful or damaging results! This is only for EDUCATIONAL PURPOSES ONLY! This is for those of you who are new to python, programming, and or new to SMTPLIB and want to learn about the hows and whats. In this code i've included MANY notes on what it does and how its used!
 #
 #
