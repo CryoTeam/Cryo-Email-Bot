@@ -1,5 +1,9 @@
 # Cryo-Email-Bot-v.3
-I am not responsible for any damages, unlawful use and or any use of any kind to harm or disrupt while using this tool. This tool is for EDUCATIONAL research and testing only. This is for those who are new to SMTPLIB or Python in general. You are responsible for your own actions upon using/modifying my code. These emails will NOT go into spam folder, as this is a direct inbox emailer unlike most of them on here. You can also send multiple emails to multiple people at a time which is great for companies who are smaller or want something simple and easy.
+| Status | Description | Color Code |
+|--------|-------------|------------|
+|Working| The Script is working. | ![Working](https://i.ibb.co/3FntR1c/1.png) |
+|Not- Working| Scripts are not working Or need some modifications.|![Not-Working](https://i.ibb.co/wWtD8S6/2.png) |
+|Others| Pending, Some anothers issues OR not checked that is it working or not.| ![Others](https://i.ibb.co/pQwqwcN/3.png)|
 #
 #
 #
